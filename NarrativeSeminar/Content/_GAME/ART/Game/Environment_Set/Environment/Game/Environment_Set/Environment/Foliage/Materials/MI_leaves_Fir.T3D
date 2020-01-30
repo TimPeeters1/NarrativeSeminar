@@ -1,0 +1,19 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_leaves_Fir"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=8BE90F8F4C44E17D230C38968690CFAE
+   Parent=Material'"/Game/Environment_Set/Environment/Foliage/Materials/M_leaves.M_leaves"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="SubsurfaceColor"),ParameterValue=(R=2.000000,G=1.500000,B=2.000000,A=2.000000),ExpressionGUID=8141AA7D4FE237E335EF8FA69785FC4E)
+   TextureParameterValues(0)=(ParameterInfo=(Name="BaseColor_A"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Fir_leaves_BC_T.T_Fir_leaves_BC_T"',ExpressionGUID=92ED298742D0E2D1FD5287A8CA5B9BEF)
+   TextureParameterValues(1)=(ParameterInfo=(Name="MT_R_AO"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Poplar_MT_R_AO.T_Poplar_MT_R_AO"',ExpressionGUID=6413FBCD4986F6C515E066B6EB508505)
+   TextureParameterValues(2)=(ParameterInfo=(Name="Normalmap"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Fir_leaves_N.T_Fir_leaves_N"',ExpressionGUID=906CA95542F280A21AFC81846D46F0BF)
+   BasePropertyOverrides=(TwoSided=True,DitheredLODTransition=True,BlendMode=BLEND_Masked,ShadingModel=MSM_TwoSidedFoliage,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=EC58DE1E47949C4A45E1EF9D3D96B481
+   ReferencedTextureGuids(1)=933A8ECE4043473D1A560883E8886CC1
+   ReferencedTextureGuids(2)=7182242948C85731F676BA9B122A7BEE
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=1BD9551846FD1D94116842AA59D17DC5
+End Object

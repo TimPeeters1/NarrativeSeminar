@@ -1,0 +1,25 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Fern_Material"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=142FD9BD4B34497EAAFC87AFB6BC072C
+   Parent=Material'"/Game/Environment_Set/Environment/Foliage/Materials/M_Grass_Material.M_Grass_Material"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Brightness"),ParameterValue=1.000000,ExpressionGUID=AA9D76BF4CBD92ED5C99198CDEBF471D)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Variation_Texture_Size"),ParameterValue=1024.000000,ExpressionGUID=0E6DBA1A428247EF95A4BEB17D793877)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="WindIntensivity"),ParameterValue=0.300000,ExpressionGUID=1179EE6B4E687C902E366CB084917690)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="WindSpeed"),ParameterValue=0.230000,ExpressionGUID=05FD9E0C4C39DE2331C6A1A605D736DA)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="WindWeight"),ParameterValue=0.100000,ExpressionGUID=DB4B663F4DE32891A6B69D97E9BC6CAB)
+   ScalarParameterValues(5)=(ParameterInfo=(Name="RefractionDepthBias"))
+   TextureParameterValues(0)=(ParameterInfo=(Name="Base_Color"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_fern_01_BC_M.T_fern_01_BC_M"',ExpressionGUID=A3FA7AE042C9BE63D0BF89B2DB2FCEF4)
+   TextureParameterValues(1)=(ParameterInfo=(Name="MT_R_AO"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_fern_01_MT_R_AO.T_fern_01_MT_R_AO"',ExpressionGUID=5C7341A74B8E2D5787442D97C18BAB38)
+   TextureParameterValues(2)=(ParameterInfo=(Name="Normalmap"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_fern_01_N.T_fern_01_N"',ExpressionGUID=51EABA014C202EEAD62CF19ABA0B1FF0)
+   TextureParameterValues(3)=(ParameterInfo=(Name="Colour_Variation"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Hue.T_Hue"',ExpressionGUID=5C0DA7434AABEE7F8DEABC82D922A1CF)
+   BasePropertyOverrides=(TwoSided=True,BlendMode=BLEND_Masked,ShadingModel=MSM_TwoSidedFoliage,OpacityMaskClipValue=0.500000)
+   ReferencedTextureGuids(0)=38942B9446DEFE39197A1C8FAE72C8DF
+   ReferencedTextureGuids(1)=91E8DF2342AC86254FB01EB6684F0427
+   ReferencedTextureGuids(2)=D59324BD40BA5E387D19CF899892FE54
+   ReferencedTextureGuids(3)=8DA4A730415A51A171D1E1B709A417F6
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=4B9CA5D84464F7AEA437F5BB0B47A502
+End Object

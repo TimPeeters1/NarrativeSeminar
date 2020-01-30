@@ -1,0 +1,72 @@
+Begin Object Class=/Script/Engine.Material Name="M_Bark"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTransform Name="MaterialExpressionTransform_1"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_3"
+      ParameterName="BaseColor"
+      ExpressionGUID=85945A034ACE556799CC3FA742D0E943
+      Texture=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Poplar_bark_01_BC_H.T_Poplar_bark_01_BC_H"'
+      MaterialExpressionEditorX=-432
+      MaterialExpressionEditorY=-112
+      MaterialExpressionGuid=C1F12AB3490B9C1B210B8FBE310914CD
+      Material=Material'"M_Bark"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_4"
+      ParameterName="MT_R_AO"
+      ExpressionGUID=E93DDEB14EAD61B74FEC009041426D64
+      Texture=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Poplar_bark_01_MT_R_AO.T_Poplar_bark_01_MT_R_AO"'
+      SamplerType=SAMPLERTYPE_Masks
+      MaterialExpressionEditorX=-368
+      MaterialExpressionEditorY=112
+      MaterialExpressionGuid=527C2D6F41BEF99BC81E69AD59468358
+      Material=Material'"M_Bark"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_5"
+      ParameterName="Normalmap"
+      ExpressionGUID=3CC6372D4CE54CB3A4AFEDB18BC0E51E
+      Texture=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Poplar_bark_01_N.T_Poplar_bark_01_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-688
+      MaterialExpressionEditorY=256
+      MaterialExpressionGuid=A43072F346E72DF34C8D9CAE75417720
+      Material=Material'"M_Bark"'
+   End Object
+   Begin Object Name="MaterialExpressionTransform_1"
+      Input=(Expression=MaterialExpressionTextureSampleParameter2D'"M_Bark:MaterialExpressionTextureSampleParameter2D_5"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-416
+      MaterialExpressionEditorY=496
+      MaterialExpressionGuid=0E032FBC44137195C2F2AEBDDC91FFF7
+      Material=Material'"M_Bark"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_3"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Metallic=(Expression=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_4"',OutputIndex=1,Mask=1,MaskR=1)
+   Roughness=(Expression=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_4"',OutputIndex=2,Mask=1,MaskG=1)
+   Normal=(Expression=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_5"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   AmbientOcclusion=(Expression=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_4"',OutputIndex=3,Mask=1,MaskB=1)
+   DitheredLODTransition=True
+   bUsedWithStaticLighting=True
+   bUsedWithInstancedStaticMeshes=True
+   Expressions(0)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_3"'
+   Expressions(1)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_4"'
+   Expressions(2)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_5"'
+   Expressions(3)=MaterialExpressionTransform'"MaterialExpressionTransform_1"'
+   ParameterGroupData(0)=(GroupName="None")
+   ParameterGroupData(1)=(GroupName="None")
+   ParameterGroupData(2)=(GroupName="None")
+   bCanMaskedBeAssumedOpaque=True
+   StateId=9F48D36E477CE7A760DC429561D9537F
+   ReferencedTextureGuids(0)=8F733C1E46B9299A8126D3B4DA8DD9D9
+   ReferencedTextureGuids(1)=A37214BA493433953940ACB19DC88308
+   ReferencedTextureGuids(2)=B1205DA24DFC71E87A35C580ED6942BC
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=D47B77B644BE641AFF1855852BD7EE61
+End Object

@@ -1,0 +1,37 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Roots_01"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=ACA5B42B464F34E989FA95A22A79FC27
+   Parent=Material'"/Game/Environment_Set/Environment/Rocks/Materials/M_Dynamic_Cover.M_Dynamic_Cover"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Normalmap Scale"),ParameterValue=1.000000,ExpressionGUID=B12B244349EEDA6820E4AA9F94C85664)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Cover_Ammount"),ParameterValue=1.000000,ExpressionGUID=D08B8A2047B0136AD215F4B040B18980)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="Cover_Contrast"),ParameterValue=2.000000,ExpressionGUID=DCBD6FF7496C2AECBCBCE2A383BDA9E5)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="Cover_Mask_Angle"),ParameterValue=18.577980,ExpressionGUID=7D6A38C543C9371B8020ECBEA1661620)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="Cover_Tiling"),ParameterValue=300.000000,ExpressionGUID=B065E40F45DEA8B601BAA9B277B356D7)
+   ScalarParameterValues(5)=(ParameterInfo=(Name="Cover_Transition"),ParameterValue=0.665138,ExpressionGUID=7B88B55742FEEA6CDB4D85B3EF0A4472)
+   ScalarParameterValues(6)=(ParameterInfo=(Name="Cover_Vertex_Offset"),ParameterValue=2.295075,ExpressionGUID=36D794E649B3B6053CC824ABE66F3143)
+   ScalarParameterValues(7)=(ParameterInfo=(Name="Heightmap_Power"),ParameterValue=1.467890,ExpressionGUID=07871C024B6D2291F3006ABC0E7F9E16)
+   ScalarParameterValues(8)=(ParameterInfo=(Name="BC_Detailmap_Power_"),ParameterValue=0.500000,ExpressionGUID=0C09489D4655EE8E9FEE1B8BE258E96E)
+   ScalarParameterValues(9)=(ParameterInfo=(Name="Detailmap_Tiling"),ParameterValue=2.000000,ExpressionGUID=96B842994FBDA82CC1C25394ABC52D71)
+   ScalarParameterValues(10)=(ParameterInfo=(Name="N_Detailmap_Power"),ParameterValue=0.500000,ExpressionGUID=F408C2FD4CA7B4B396BDA29B95DBF3AA)
+   ScalarParameterValues(11)=(ParameterInfo=(Name="RefractionDepthBias"))
+   TextureParameterValues(0)=(ParameterInfo=(Name="Base_Color"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Rocks/Textures/T_big_rock_01_BC.T_big_rock_01_BC"',ExpressionGUID=378CC82D4070A39E685919AF34ADDF88)
+   TextureParameterValues(1)=(ParameterInfo=(Name="MT_R_AO"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Rocks/Textures/T_big_rock_01_MT_R_AO.T_big_rock_01_MT_R_AO"',ExpressionGUID=D335B1374B657458765B5E93ED863B7E)
+   TextureParameterValues(2)=(ParameterInfo=(Name="Normalmap"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Rocks/Textures/T_big_rock_01_N.T_big_rock_01_N"',ExpressionGUID=D55FEB2348A8A6370B32CB880C35BF75)
+   TextureParameterValues(3)=(ParameterInfo=(Name="Cover_Color"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Rocks/Textures/T_uvfree_rock_05_BC_H.T_uvfree_rock_05_BC_H"',ExpressionGUID=D245CF3841CFBDCA41FBEEBBE118DA46)
+   TextureParameterValues(4)=(ParameterInfo=(Name="Cover_MT_R_AO"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Rocks/Textures/T_uvfree_rock_05_MT_R_AO.T_uvfree_rock_05_MT_R_AO"',ExpressionGUID=5C65460E4026DAE3352936BC0762D9DF)
+   TextureParameterValues(5)=(ParameterInfo=(Name="Cover_Normal"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Rocks/Textures/T_uvfree_rock_05_N.T_uvfree_rock_05_N"',ExpressionGUID=5A43999C4274AD980943FDB374AB764C)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=F86D88F74EEFB644B289B49EF32CB9A0
+   ReferencedTextureGuids(1)=6F133B9E453E339E098FC9A35E855F60
+   ReferencedTextureGuids(2)=AF11058249A283B4B65B76B44E6FEDD7
+   ReferencedTextureGuids(3)=FBC71B60433EC3B1C2AB26B667BF7D4C
+   ReferencedTextureGuids(4)=91273582415A6A4EAA10839C78327291
+   ReferencedTextureGuids(5)=80DD22D94C10425EDD1731A2754EBD24
+   ReferencedTextureGuids(6)=A65CE24D42240A1D84F2C49443CD764F
+   ReferencedTextureGuids(7)=F6250EE841CFCD01D92D17BE12CA1294
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=59AF38294E598166DAC9968344112131
+End Object

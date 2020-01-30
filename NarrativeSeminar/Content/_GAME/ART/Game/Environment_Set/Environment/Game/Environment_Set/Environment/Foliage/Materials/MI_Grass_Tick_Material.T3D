@@ -1,0 +1,24 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Grass_Tick_Material"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=BBA18DC54811ABF29B7A329BCCBA9CBB
+   Parent=Material'"/Game/Environment_Set/Environment/Foliage/Materials/M_Grass_Tick_Material.M_Grass_Tick_Material"'
+   bHasStaticPermutationResource=True
+   ScalarParameterValues(0)=(ParameterInfo=(Name="LOD AO"),ParameterValue=1.000000,ExpressionGUID=CC28F59142A9B339B237D7ACF2D8EAF1)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="LOD Metalic"),ParameterValue=0.200000,ExpressionGUID=C260DFBF484551221B2218B116640072)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="LOD Roughness"),ParameterValue=0.800000,ExpressionGUID=D7EFD0E64558B52ED7672694AABB80A7)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="WindIntensivity"),ParameterValue=0.500000,ExpressionGUID=1179EE6B4E687C902E366CB084917690)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="WindSpeed"),ParameterValue=0.230000,ExpressionGUID=05FD9E0C4C39DE2331C6A1A605D736DA)
+   ScalarParameterValues(5)=(ParameterInfo=(Name="WindWeight"),ParameterValue=0.100000,ExpressionGUID=DB4B663F4DE32891A6B69D97E9BC6CAB)
+   ScalarParameterValues(6)=(ParameterInfo=(Name="RefractionDepthBias"))
+   BasePropertyOverrides=(TwoSided=True,DitheredLODTransition=True,BlendMode=BLEND_Masked,ShadingModel=MSM_TwoSidedFoliage,OpacityMaskClipValue=0.330000)
+   ReferencedTextureGuids(0)=29C3FF7B49A5CF1E6EE6BF91A1CAB389
+   ReferencedTextureGuids(1)=91E8DF2342AC86254FB01EB6684F0427
+   ReferencedTextureGuids(2)=5E5C321F4E4525F95EAED186E036D2C0
+   ReferencedTextureGuids(3)=6EC4E8184709E777202341889A2099B5
+   StaticParameters=(StaticSwitchParameters=((ParameterInfo=(Name="Use Metalic Map"),Value=True,bOverride=True,ExpressionGUID=847B137C4B1CDEA27EAA2CAA6190892F),(ParameterInfo=(Name="Use_AO_map"),Value=True,bOverride=True,ExpressionGUID=2D71920E4B652265DA4A8E9672F9DCCF),(ParameterInfo=(Name="Use_Normalmap_map_"),Value=True,bOverride=True,ExpressionGUID=9ADC67BE4CF19BEC867BF99A150AE526),(ParameterInfo=(Name="Use_Roughness_Map"),Value=True,bOverride=True,ExpressionGUID=6858C0694BBEB501A6DEEE99114BAAF4)))
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=53DBC18A4E7354C8E5ED9DBEBC0D0816
+End Object

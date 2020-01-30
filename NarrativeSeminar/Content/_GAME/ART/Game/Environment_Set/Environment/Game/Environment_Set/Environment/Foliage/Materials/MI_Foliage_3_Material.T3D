@@ -1,0 +1,23 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Foliage_3_Material"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=FD7F55B24A00020A87E0159C0EA12499
+   Parent=Material'"/Game/Environment_Set/Environment/Foliage/Materials/M_Grass_Material.M_Grass_Material"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Brightness"),ParameterValue=1.000000,ExpressionGUID=AA9D76BF4CBD92ED5C99198CDEBF471D)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="WindIntensivity"),ParameterValue=0.500000,ExpressionGUID=1179EE6B4E687C902E366CB084917690)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="WindSpeed"),ParameterValue=0.230000,ExpressionGUID=05FD9E0C4C39DE2331C6A1A605D736DA)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="WindWeight"),ParameterValue=0.100000,ExpressionGUID=DB4B663F4DE32891A6B69D97E9BC6CAB)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="RefractionDepthBias"))
+   TextureParameterValues(0)=(ParameterInfo=(Name="Base_Color"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_ground_foliage_03_BC_M.T_ground_foliage_03_BC_M"',ExpressionGUID=A3FA7AE042C9BE63D0BF89B2DB2FCEF4)
+   TextureParameterValues(1)=(ParameterInfo=(Name="MT_R_AO"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_ground_foliage_03_MT_R_AO.T_ground_foliage_03_MT_R_AO"',ExpressionGUID=5C7341A74B8E2D5787442D97C18BAB38)
+   TextureParameterValues(2)=(ParameterInfo=(Name="Normalmap"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_ground_foliage_03_N.T_ground_foliage_03_N"',ExpressionGUID=51EABA014C202EEAD62CF19ABA0B1FF0)
+   BasePropertyOverrides=(TwoSided=True,BlendMode=BLEND_Masked,ShadingModel=MSM_TwoSidedFoliage,OpacityMaskClipValue=0.500000)
+   ReferencedTextureGuids(0)=DE270D38403D2978C6A0979803C9621A
+   ReferencedTextureGuids(1)=91E8DF2342AC86254FB01EB6684F0427
+   ReferencedTextureGuids(2)=DE5781BA465329150B67898916658A79
+   ReferencedTextureGuids(3)=53F9022B4266045CC3A740B35136D44E
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=9FAE69F446D33E06F1D044ABF5E21943
+End Object

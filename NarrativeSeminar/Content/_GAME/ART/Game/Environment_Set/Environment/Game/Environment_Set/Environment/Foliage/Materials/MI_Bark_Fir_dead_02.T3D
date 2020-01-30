@@ -1,0 +1,22 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Bark_Fir_dead_02"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=E342326B4B6747C4CD9AE8BEEF292D6D
+   Parent=MaterialInstanceConstant'"/Game/Environment_Set/Environment/Foliage/Materials/MI_Bark_Fir_04_02.MI_Bark_Fir_04_02"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="RefractionDepthBias"))
+   TextureParameterValues(0)=(ParameterInfo=(Name="BaseColor_2"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Fir_bark_02_BC.T_Fir_bark_02_BC"',ExpressionGUID=5D83EB494C2F5A2C0CF846BB6EF81854)
+   TextureParameterValues(1)=(ParameterInfo=(Name="Normalmap_2"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Fir_bark_02_N.T_Fir_bark_02_N"',ExpressionGUID=1683CD46432230D7D96CB2B2BCE8C67C)
+   TextureParameterValues(2)=(ParameterInfo=(Name="BaseColor"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Fir_bark_07_BC.T_Fir_bark_07_BC"',ExpressionGUID=6C5CD0724BB4A3ED6EF3CC9A3AFD3AAC)
+   TextureParameterValues(3)=(ParameterInfo=(Name="MT_T_AO"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Fir_bark_07_MT_R_AO_C.T_Fir_bark_07_MT_R_AO_C"',ExpressionGUID=6DD7F98847910DF9989FF7BC2C9C5415)
+   TextureParameterValues(4)=(ParameterInfo=(Name="Normalmap"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Fir_bark_07_N.T_Fir_bark_07_N"',ExpressionGUID=C9FBCDAD4FDAAB80389A338A646D6762)
+   BasePropertyOverrides=(DitheredLODTransition=True,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=5038744D441EB882B8E62AA2EB859B78
+   ReferencedTextureGuids(1)=01090C784119B510EBBA5CB3F5F0FDEE
+   ReferencedTextureGuids(2)=CC58E22E4A94B95932D49E8BFE2F74D2
+   ReferencedTextureGuids(3)=790B47F74CB55F39EBF879A9C12D27B1
+   ReferencedTextureGuids(4)=605E1A3D490A6CCFD188FBB866CAB9B1
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=8DBFC45E4581BF20CA4760B9F18593F5
+End Object

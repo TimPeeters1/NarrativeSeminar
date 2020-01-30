@@ -1,0 +1,27 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Imposter_Fir_05"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=F71B24ED4070FD232FB7DEA3079C7F2A
+   Parent=Material'"/Game/Environment_Set/Environment/Foliage/Materials/M_Imposters.M_Imposters"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Brightness"),ParameterValue=1.550000,ExpressionGUID=9FC0A64B49FE73F1AEC7AE988BDA3DD7)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Frames_X"),ParameterValue=4.000000,ExpressionGUID=9FAC1FD548BF23298901B490C4B2DAB0)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="Frames_Y"),ParameterValue=4.000000,ExpressionGUID=4693BF154BB2F67AE23036888183B4F4)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="Imposter_Size"),ParameterValue=930.000000,ExpressionGUID=C560B2F3447DAFCA483D1FBD598903C5)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="Sprite_Z_Correction_1"),ParameterValue=-0.050000,ExpressionGUID=0C3094FD4AAD852144DFD58CA100CC40)
+   ScalarParameterValues(5)=(ParameterInfo=(Name="Ambient_Occlusion"),ParameterValue=1.000000,ExpressionGUID=F257EBC44E787B7CD2DCE0A583B12664)
+   ScalarParameterValues(6)=(ParameterInfo=(Name="Metalic"),ExpressionGUID=9043C42940486B818A6984BC2B334ABD)
+   ScalarParameterValues(7)=(ParameterInfo=(Name="Roughness"),ParameterValue=0.800000,ExpressionGUID=C6A6C4A74387332A86E417B254D9382F)
+   ScalarParameterValues(8)=(ParameterInfo=(Name="Specular"),ExpressionGUID=DBDD63EE45005F95BBE69B98AB3724B3)
+   ScalarParameterValues(9)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="UP"),ParameterValue=(R=0.000000,G=0.000000,B=0.261000,A=0.000000),ExpressionGUID=49AE34B6439BC72CC704279E9477C34B)
+   TextureParameterValues(0)=(ParameterInfo=(Name="Base_Color(RGB)_Mask(A)"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Fir_05_Imposter_BC.T_Fir_05_Imposter_BC"',ExpressionGUID=63F8BF5448A823E6B25961AF91F7957E)
+   TextureParameterValues(1)=(ParameterInfo=(Name="Normalmap"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Fir_05_Imposter_N.T_Fir_05_Imposter_N"',ExpressionGUID=292089A24A7280662C877C9401FB2ECC)
+   BasePropertyOverrides=(DitheredLODTransition=True,BlendMode=BLEND_Masked,ShadingModel=MSM_TwoSidedFoliage,OpacityMaskClipValue=0.500000)
+   ReferencedTextureGuids(0)=E37D91DC427D596A41A274928F720C73
+   ReferencedTextureGuids(1)=19BDCDDC4B5215170815439732C12D36
+   LightmassSettings=(bCastShadowAsMasked=True)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=49F3AEC247000BBB82985B9F7EC00A1F
+End Object

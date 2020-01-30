@@ -1,0 +1,16 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_leaves_Poplar_LOD"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=18F60EF64E8C378C3410B58A6C715356
+   Parent=Material'"/Game/Environment_Set/Environment/Foliage/Materials/M_leaves_LOD.M_leaves_LOD"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="RefractionDepthBias"))
+   BasePropertyOverrides=(TwoSided=True,DitheredLODTransition=True,BlendMode=BLEND_Masked,ShadingModel=MSM_TwoSidedFoliage,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=BD5FA4714EE700B24D274C8E877DED1D
+   ReferencedTextureGuids(1)=893753734D5BF8ED91CDB98ABCAFE0C2
+   ReferencedTextureGuids(2)=7182242948C85731F676BA9B122A7BEE
+   LightmassSettings=(bCastShadowAsMasked=True)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=21EAE73240451553EA5B74BF59002809
+End Object

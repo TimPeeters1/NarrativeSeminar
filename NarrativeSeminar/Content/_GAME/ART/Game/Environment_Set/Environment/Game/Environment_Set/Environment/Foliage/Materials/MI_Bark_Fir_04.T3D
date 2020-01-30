@@ -1,0 +1,18 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Bark_Fir_04"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=5E758C864C0947F3531B71ACC7A1354B
+   Parent=Material'"/Game/Environment_Set/Environment/Foliage/Materials/M_Bark.M_Bark"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="RefractionDepthBias"))
+   TextureParameterValues(0)=(ParameterInfo=(Name="BaseColor"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Fir_bark_04_BC_MASK.T_Fir_bark_04_BC_MASK"',ExpressionGUID=85945A034ACE556799CC3FA742D0E943)
+   TextureParameterValues(1)=(ParameterInfo=(Name="MT_R_AO"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Fir_bark_04_MT_R_AO_H.T_Fir_bark_04_MT_R_AO_H"',ExpressionGUID=E93DDEB14EAD61B74FEC009041426D64)
+   TextureParameterValues(2)=(ParameterInfo=(Name="Normalmap"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Fir_bark_04_N.T_Fir_bark_04_N"',ExpressionGUID=3CC6372D4CE54CB3A4AFEDB18BC0E51E)
+   BasePropertyOverrides=(DitheredLODTransition=True,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=EFD5F2BC414FC3BAFC5DACB21E665F36
+   ReferencedTextureGuids(1)=A2E4B03D4CF583120A1A97B441EA9C1F
+   ReferencedTextureGuids(2)=2F9D14F14316FAE690242B9AC6D5B61B
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=E7001CC4402156C5BFC186A2659588BF
+End Object

@@ -1,0 +1,31 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Grass_Material"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=39CA23214BEE35EA8835BE9AA82FC791
+   Parent=Material'"/Game/Environment_Set/Environment/Foliage/Materials/M_Grass_Material.M_Grass_Material"'
+   bHasStaticPermutationResource=True
+   ScalarParameterValues(0)=(ParameterInfo=(Name="LOD AO"),ParameterValue=1.000000,ExpressionGUID=67396B99470A4E0349C5D4B760E72B8D)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="LOD Metalic"),ParameterValue=0.200000,ExpressionGUID=652DB1314BCADCD9519EB08E30A4ECE5)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="LOD Roughness"),ParameterValue=0.800000,ExpressionGUID=2C8D4F704ADD7E54AC09749917B9F2B5)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="WindIntensivity"),ParameterValue=0.500000,ExpressionGUID=1179EE6B4E687C902E366CB084917690)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="WindSpeed"),ParameterValue=0.230000,ExpressionGUID=05FD9E0C4C39DE2331C6A1A605D736DA)
+   ScalarParameterValues(5)=(ParameterInfo=(Name="WindWeight"),ParameterValue=0.100000,ExpressionGUID=DB4B663F4DE32891A6B69D97E9BC6CAB)
+   ScalarParameterValues(6)=(ParameterInfo=(Name="RefractionDepthBias"))
+   TextureParameterValues(0)=(ParameterInfo=(Name="Base_Color"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_grass_atlas_01_BC_M.T_grass_atlas_01_BC_M"',ExpressionGUID=A3FA7AE042C9BE63D0BF89B2DB2FCEF4)
+   BasePropertyOverrides=(TwoSided=True,BlendMode=BLEND_Masked,ShadingModel=MSM_TwoSidedFoliage,OpacityMaskClipValue=0.500000)
+   ReferencedTextureGuids(0)=29C3FF7B49A5CF1E6EE6BF91A1CAB389
+   ReferencedTextureGuids(1)=91E8DF2342AC86254FB01EB6684F0427
+   ReferencedTextureGuids(2)=5E5C321F4E4525F95EAED186E036D2C0
+   ReferencedTextureGuids(3)=6EC4E8184709E777202341889A2099B5
+   StaticParameters=(StaticSwitchParameters=((ParameterInfo=(Name="Use Metalic Map"),Value=True,bOverride=True,ExpressionGUID=6A0057C9425EE71CDADFE895BDB98BAD),(ParameterInfo=(Name="Use_AO_map"),Value=True,bOverride=True,ExpressionGUID=9997BBBB48D38CC77C46418A407C75D1),(ParameterInfo=(Name="Use_Normalmap_map_"),Value=True,bOverride=True,ExpressionGUID=C4DE09EC4608067AECADCA99BB420B3B),(ParameterInfo=(Name="Use_Roughness_Map"),Value=True,bOverride=True,ExpressionGUID=6F98F4E24BFAB1757483E4AF7C3D79AC)))
+   LightmassSettings=(bCastShadowAsMasked=True)
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_grass_atlas_01_BC_M",TextureReference=/Game/Environment_Set/Environment/Foliage/Textures/T_grass_atlas_01_BC_M.T_grass_atlas_01_BC_M)
+   TextureStreamingData(1)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_grass_atlas_01_MT_R_AO",TextureReference=/Game/Environment_Set/Environment/Foliage/Textures/T_grass_atlas_01_MT_R_AO.T_grass_atlas_01_MT_R_AO)
+   TextureStreamingData(2)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_grass_atlas_01_N",TextureReference=/Game/Environment_Set/Environment/Foliage/Textures/T_grass_atlas_01_N.T_grass_atlas_01_N)
+   TextureStreamingData(3)=(SamplingScale=0.031250,UVChannelIndex=2,TextureName="T_Hue",TextureReference=/Game/Environment_Set/Environment/Foliage/Textures/T_Hue.T_Hue)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=ADA9C8F14422960FC267AEA9C16C57FB
+End Object

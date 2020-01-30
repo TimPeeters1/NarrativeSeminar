@@ -1,0 +1,13 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_leaves_Poplar"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Parent=Material'"/Game/Environment_Set/Environment/Foliage/Materials/M_leaves.M_leaves"'
+   BasePropertyOverrides=(TwoSided=True,DitheredLODTransition=True,BlendMode=BLEND_Masked,ShadingModel=MSM_TwoSidedFoliage,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=BD5FA4714EE700B24D274C8E877DED1D
+   ReferencedTextureGuids(1)=893753734D5BF8ED91CDB98ABCAFE0C2
+   ReferencedTextureGuids(2)=7182242948C85731F676BA9B122A7BEE
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=3579890C41C7DD8567BD8A9319193A3C
+End Object

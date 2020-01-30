@@ -1,0 +1,18 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_poplar_branch"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=1967DD5B49DB6066346D6D80DF80291F
+   Parent=Material'"/Game/Environment_Set/Environment/Foliage/Materials/M_Bark.M_Bark"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="RefractionDepthBias"))
+   TextureParameterValues(0)=(ParameterInfo=(Name="BaseColor"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Poplar_bark_02_BC_H.T_Poplar_bark_02_BC_H"',ExpressionGUID=85945A034ACE556799CC3FA742D0E943)
+   TextureParameterValues(1)=(ParameterInfo=(Name="MT_R_AO"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Poplar_bark_02_MT_R_AO.T_Poplar_bark_02_MT_R_AO"',ExpressionGUID=E93DDEB14EAD61B74FEC009041426D64)
+   TextureParameterValues(2)=(ParameterInfo=(Name="Normalmap"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Poplar_bark_02_N.T_Poplar_bark_02_N"',ExpressionGUID=3CC6372D4CE54CB3A4AFEDB18BC0E51E)
+   BasePropertyOverrides=(DitheredLODTransition=True,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=CFDA41224120F8766AFF14A69D78CF83
+   ReferencedTextureGuids(1)=01BE0606406DAC94F294FCACC2FA2A43
+   ReferencedTextureGuids(2)=3938ED894FBA5539DFDC22AF5F3F9122
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=3840E2BC46CEDFDED749ABB3EA267800
+End Object

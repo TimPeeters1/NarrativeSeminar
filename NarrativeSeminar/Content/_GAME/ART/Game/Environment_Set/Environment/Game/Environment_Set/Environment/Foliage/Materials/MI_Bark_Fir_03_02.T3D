@@ -1,0 +1,16 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Bark_Fir_03_02"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=582D34F44CE6ADD9D1EA97A9C110BFEF
+   Parent=Material'"/Game/Environment_Set/Environment/Foliage/Materials/M_Bark_Blended.M_Bark_Blended"'
+   BasePropertyOverrides=(DitheredLODTransition=True,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=5038744D441EB882B8E62AA2EB859B78
+   ReferencedTextureGuids(1)=220DA893435C77F81EDE3A82FB57868F
+   ReferencedTextureGuids(2)=CAC044724298A23BB1305B91D8EC561F
+   ReferencedTextureGuids(3)=790B47F74CB55F39EBF879A9C12D27B1
+   ReferencedTextureGuids(4)=C449E0954CC2696CB78DAEBA41F9284E
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=C242B428497D9B46BAADF890043A8A51
+End Object

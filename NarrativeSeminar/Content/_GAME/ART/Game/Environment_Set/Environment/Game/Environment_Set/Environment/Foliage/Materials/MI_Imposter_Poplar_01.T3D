@@ -1,0 +1,32 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Imposter_Poplar_01"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=C89820AE4BC6EA7DDC2710A46D8DCDC6
+   Parent=Material'"/Game/Environment_Set/Environment/Foliage/Materials/M_Imposters.M_Imposters"'
+   bHasStaticPermutationResource=True
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Brightness"),ParameterValue=1.600000,ExpressionGUID=9FC0A64B49FE73F1AEC7AE988BDA3DD7)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Frames_X"),ParameterValue=4.000000,ExpressionGUID=9FAC1FD548BF23298901B490C4B2DAB0)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="Frames_Y"),ParameterValue=4.000000,ExpressionGUID=4693BF154BB2F67AE23036888183B4F4)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="Imposter_Size"),ParameterValue=950.000000,ExpressionGUID=C560B2F3447DAFCA483D1FBD598903C5)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="Sprite_Z_Correction"),ParameterValue=-0.140000,ExpressionGUID=6A86BA0B4A4643D3FABC4EA90D6AF314)
+   ScalarParameterValues(5)=(ParameterInfo=(Name="Sprite_Z_Correction_1"),ParameterValue=-0.130000,ExpressionGUID=0C3094FD4AAD852144DFD58CA100CC40)
+   ScalarParameterValues(6)=(ParameterInfo=(Name="Ambient_Occlusion"),ParameterValue=1.000000,ExpressionGUID=F257EBC44E787B7CD2DCE0A583B12664)
+   ScalarParameterValues(7)=(ParameterInfo=(Name="Metalic"),ExpressionGUID=9043C42940486B818A6984BC2B334ABD)
+   ScalarParameterValues(8)=(ParameterInfo=(Name="Roughness"),ParameterValue=0.800000,ExpressionGUID=C6A6C4A74387332A86E417B254D9382F)
+   ScalarParameterValues(9)=(ParameterInfo=(Name="Specular"),ExpressionGUID=DBDD63EE45005F95BBE69B98AB3724B3)
+   ScalarParameterValues(10)=(ParameterInfo=(Name="NORMAL ROTATE AMT"),ExpressionGUID=71F41AF042FF9A30B3640380F0B4B5FC)
+   ScalarParameterValues(11)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="UP"),ParameterValue=(R=0.000000,G=0.000000,B=1.500000,A=0.000000),ExpressionGUID=49AE34B6439BC72CC704279E9477C34B)
+   TextureParameterValues(0)=(ParameterInfo=(Name="Base_Color(RGB)_Mask(A)"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Poplar_01_Imposter_BC.T_Poplar_01_Imposter_BC"',ExpressionGUID=63F8BF5448A823E6B25961AF91F7957E)
+   TextureParameterValues(1)=(ParameterInfo=(Name="Normalmap"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Poplar_01_Imposter_N.T_Poplar_01_Imposter_N"',ExpressionGUID=292089A24A7280662C877C9401FB2ECC)
+   BasePropertyOverrides=(bOverride_OpacityMaskClipValue=True,DitheredLODTransition=True,BlendMode=BLEND_Masked,ShadingModel=MSM_TwoSidedFoliage,OpacityMaskClipValue=0.300000)
+   ReferencedTextureGuids(0)=25BEF8A84C50B91A82ACDA9DF55D61EA
+   ReferencedTextureGuids(1)=BEA48BD14CBE5ED22EE822A97D2F9C65
+   LightmassSettings=(bCastShadowAsMasked=True)
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_Poplar_01_Imposter_BC",TextureReference=/Game/Environment_Set/Environment/Foliage/Textures/T_Poplar_01_Imposter_BC.T_Poplar_01_Imposter_BC)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=2AC2E577438ACD7891A399A56F01B9DD
+End Object

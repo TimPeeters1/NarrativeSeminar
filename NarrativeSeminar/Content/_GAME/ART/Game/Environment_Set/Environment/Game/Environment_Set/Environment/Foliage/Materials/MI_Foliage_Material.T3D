@@ -1,0 +1,25 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Foliage_Material"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=2E1A300E4A7D65954BDE6BB8FB33C0AD
+   Parent=Material'"/Game/Environment_Set/Environment/Foliage/Materials/M_Grass_Material.M_Grass_Material"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Brightness"),ParameterValue=1.000000,ExpressionGUID=AA9D76BF4CBD92ED5C99198CDEBF471D)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Variation_Texture_Size"),ParameterValue=1024.000000,ExpressionGUID=0E6DBA1A428247EF95A4BEB17D793877)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="WindIntensivity"),ParameterValue=0.100000,ExpressionGUID=1179EE6B4E687C902E366CB084917690)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="WindSpeed"),ParameterValue=0.230000,ExpressionGUID=05FD9E0C4C39DE2331C6A1A605D736DA)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="WindWeight"),ParameterValue=0.100000,ExpressionGUID=DB4B663F4DE32891A6B69D97E9BC6CAB)
+   ScalarParameterValues(5)=(ParameterInfo=(Name="RefractionDepthBias"))
+   TextureParameterValues(0)=(ParameterInfo=(Name="Base_Color"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_ground_foliage_01_BC_M.T_ground_foliage_01_BC_M"',ExpressionGUID=A3FA7AE042C9BE63D0BF89B2DB2FCEF4)
+   TextureParameterValues(1)=(ParameterInfo=(Name="MT_R_AO"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_ground_foliage_01_MT_R_AO.T_ground_foliage_01_MT_R_AO"',ExpressionGUID=5C7341A74B8E2D5787442D97C18BAB38)
+   TextureParameterValues(2)=(ParameterInfo=(Name="Normalmap"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_ground_foliage_01_N.T_ground_foliage_01_N"',ExpressionGUID=51EABA014C202EEAD62CF19ABA0B1FF0)
+   TextureParameterValues(3)=(ParameterInfo=(Name="Colour_Variation"),ParameterValue=Texture2D'"/Game/Environment_Set/Environment/Foliage/Textures/T_Hue.T_Hue"',ExpressionGUID=5C0DA7434AABEE7F8DEABC82D922A1CF)
+   BasePropertyOverrides=(TwoSided=True,BlendMode=BLEND_Masked,ShadingModel=MSM_TwoSidedFoliage,OpacityMaskClipValue=0.500000)
+   ReferencedTextureGuids(0)=6D9BF0354B523E3C9317459FA619462A
+   ReferencedTextureGuids(1)=91E8DF2342AC86254FB01EB6684F0427
+   ReferencedTextureGuids(2)=1C9881C84C0B1A9E3F0A3E87CC810CD3
+   ReferencedTextureGuids(3)=4D36A6A04E382E84C0395FA38B62770C
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=27CA1C2548F065F31509D98173BC8E4E
+End Object
